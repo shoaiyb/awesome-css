@@ -118,8 +118,8 @@ The CSS Working Group creates and defines CSS specifications. These specificatio
 * [Semantic UI](http://semantic-ui.com/) - Powerful framework that uses human-friendly HTML.
 * [Shorthand Framework](https://github.com/shorthandcss/shorthand) - Feature rich CSS framework for the new decade.
 * [Spectre.css](https://picturepan2.github.io/spectre/index.html) - A lightweight, responsive and modern CSS framework.
-* [SysaCSS](https://css.sysa.ml/) - Free And Open Source Responsive Modern CSS Framework.
 * [Strawberry](https://github.com/jfet97/strawberry) - A set of common flexbox utilities focused on making your life easier and faster with nested flexboxes.
+* [SysaCSS](https://css.sysa.ml/) - Free And Open Source Responsive Modern CSS Framework.
 * [Tachyons](http://tachyons.io/) - Functional CSS for humans.
 * [Tacit](https://yegor256.github.io/tacit/) - CSS framework for dummies with zero skills in graphic design.
 * [tailwindcss](https://github.com/tailwindcss/tailwindcss) - A utility-first CSS framework for rapid UI development.
